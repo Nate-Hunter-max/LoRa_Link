@@ -33,7 +33,7 @@
 		<link>
 			<name>Src</name>
 			<type>2</type>
-			<location>C:/Users/oppp0/OneDrive/Code/STM32/Libs/Src</location>
+			<locationURI>WORKSPACE_LOC/Libs/Src</locationURI>
 		</link>
 	</linkedResources>
 </projectDescription>
